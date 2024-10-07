@@ -3,7 +3,7 @@
 
 <!-- Add a banner image here -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile!" alt="Banner" width="100%">
+  <img src="[https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcourse-net.com%2Fblog%2Fbackend-developer-adalah-pengertian-dan-tugasnya%2F&psig=AOvVaw2whXCQ6lvPQzBSNMeGPXS7&ust=1728412535969000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICn6s_0_IgDFQAAAAAdAAAAABAQ)" alt="Banner" width="100%">
 </p>
 
 <p align="left"> 
