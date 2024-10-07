@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HAFIF SAPUTRA</h1>
-<h3 align="center">A passionate Backend developer from Indonesia</h3>
+<h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appippp&label=Profile%20views&color=0e75b6&style=flat" alt="appippp" /> </p>
 
